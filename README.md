@@ -79,6 +79,6 @@ EPFL - Master in Robotics
 
 Mischa Mez,
 Mathieu Sanchez,
-Zaynab Hajroun,
+Zaynab Hajroun
 
 Image Analysis and Pattern Recognition Course 2025 
