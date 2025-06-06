@@ -77,8 +77,8 @@ The project generates predictions in CSV format suitable for Kaggle submissions,
 
 EPFL - Master in Robotics
 
-Mischa Mez
-Mathieu Sanchez
-Zaynab Hajroun
+Mischa Mez,
+Mathieu Sanchez,
+Zaynab Hajroun,
 
 Image Analysis and Pattern Recognition Course 2025 
